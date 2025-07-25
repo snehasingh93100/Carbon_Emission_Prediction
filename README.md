@@ -1,11 +1,10 @@
-# 🌍 Carbon Emission Prediction – (Internship Project - June 2025 Batch)
-
+# 🌍 Carbon Emission Prediction
 ## 📁 Project Description
 
-This project is part of the AI/ML Internship (June Batch – 2025).  
+This project is part of the AI/ML project  
 The goal is to explore and prepare a climate dataset (CO₂ emissions & other greenhouse gases) for future ML tasks.
 
-## ✅ Week 1 Milestone Completed: Stage 1 – Data Cleaning & Preparation - (18 June,2025)
+## ✅ Milestone Completed: Stage 1 – Data Cleaning & Preparation
 
 - Used the *original Excel dataset* (Dataset.xlsx) without converting to CSV
 - Loaded different sheets directly using pandas.read_excel()
@@ -28,7 +27,7 @@ The goal is to explore and prepare a climate dataset (CO₂ emissions & other gr
 - Jupyter Notebook
 
 
-## ✅ Week 2 Milestone Completed: Stage 2 – Data Exploration & Visualization - (24 june,2025)
+## ✅Milestone Completed: Stage 2 – Data Exploration & Visualization 
 
 - *Imported Cleaned Dataset:* Used data_clean.csv generated in Stage 1.
 - *Visualized Global Trends:* Plotted relationships between CO₂ emission and country-specific indicators.
